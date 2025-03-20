@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#ffe4c41a;
+}
+.gene{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    color:#daffc41a
+}
+.intput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border-radius: 10px;
+}
